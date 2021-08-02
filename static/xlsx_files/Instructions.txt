@@ -1,0 +1,6 @@
+1) Create a Django App
+2) Have two buttons on Home Page View Table and Download Data
+3) On click of View Table, the data in the 3 excel file will be rendered as a table.
+4) The table will have 4 columns - Column 1 will be Vehicle Class, Column 2-4 will be months (April-2021, May-2021 and June-2021)
+5) If any vehicle class does not have data for a particular month it will be shown as blank against that vehicle class for that month
+6) On click of Download data, the table view as per above will be downloaded as CSV
