@@ -1,3 +1,4 @@
+![Screenshot (48)](https://user-images.githubusercontent.com/68066033/127901239-8ec359f7-1fb6-4fe0-964f-fd83c5dc62d0.png)
 # Assignment: SixtyFour Data Intelligence
 (https://user-images.githubusercontent.com/68066033/127901062-3ab2d513-1fd9-4eba-80fb-6ed56bb27636.png)
 ###1. By clicking on view table button, the table appears
