@@ -3,8 +3,10 @@
 
 
 # Assignment: SixtyFour Data Intelligence
-![Screenshot (49)](https://user-images.githubusercontent.com/68066033/127903352-a50ca19d-7f86-43a1-9a93-677df2936d15.png)
+#
 ### 1. By clicking on view table button, the table appears
+![Screenshot (49)](https://user-images.githubusercontent.com/68066033/127903352-a50ca19d-7f86-43a1-9a93-677df2936d15.png)
+
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/68066033/127903359-92a43592-2408-4d30-be80-a4788ad27b50.png)
 ### 2. The table is presented as above. It has scroll bar at y-axis.
