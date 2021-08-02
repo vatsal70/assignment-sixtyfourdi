@@ -1,9 +1,22 @@
+
+
+
+
 # Assignment: SixtyFour Data Intelligence
-![Screenshot (48)](https://user-images.githubusercontent.com/68066033/127901239-8ec359f7-1fb6-4fe0-964f-fd83c5dc62d0.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/68066033/127903352-a50ca19d-7f86-43a1-9a93-677df2936d15.png)
 ### 1. By clicking on view table button, the table appears
-### Portfolio responsive complete
-A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name, links to social networks and a great image. Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where it shows some recent work. And at the bottom it has a form, and at the end with a footer.
-### Installation
+
+![Screenshot (50)](https://user-images.githubusercontent.com/68066033/127903359-92a43592-2408-4d30-be80-a4788ad27b50.png)
+### 2. The table is presented as above. It has scroll bar at y-axis.
+
+![Screenshot (51)](https://user-images.githubusercontent.com/68066033/127903361-51ee567e-1c98-44bc-9335-71179e57f42d.png)
+### 3. By clicking refresh button, the page reloads.
+
+
+![Screenshot (52)](https://user-images.githubusercontent.com/68066033/127903364-ffde0aba-7396-442c-83b0-d3c9cc5e5aa2.png)
+### 4. By clicking download button the file will be dowloaded to your path as 'datafile.csv'.
+
+
 **1. Create a Folder where you want to save the project**
 
 **2. Create a Virtual Environment and Activate**
