@@ -55,7 +55,7 @@ def download(request, *args, **kwargs):
     filewrapper = FileWrapper(open(filename, 'rb'))
     response = HttpResponse(filewrapper, content_type='text/csv')
     response['Content-Length'] = os.path.getsize(filename)
-    response['Content-Disposition'] = 'attachment; filename=final1103.csv'
+    response['Content-Disposition'] = 'attachment; filename=datafile.csv'
     # with open(csv_file, 'w') as csvfile: 
     #     # creating a csv writer object 
     #     csvwriter = csv.writer(csvfile) 
