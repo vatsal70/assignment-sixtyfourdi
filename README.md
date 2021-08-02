@@ -28,7 +28,7 @@ Activate Virtual Environment
 
 For Windows
 ```
-$  source venv/scripts/activate
+$  venv/Scripts/activate
 ```
 
 For Mac
@@ -38,12 +38,12 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/vijaythapa333/django-student-management-system.git
+$  git clone https://github.com/vatsal70/assignment-sixtyfourdi.git
 ```
 
 Then, Enter the project
 ```
-$  cd django-student-management-system
+$  cd internship_proj
 ```
 
 **4. Install Requirements from 'requirements.txt'**
@@ -53,7 +53,7 @@ $  pip install -r requirements.txt
 
 **5. Now Run Server**
 
-Command for PC:
+Command for Windows:
 ```python
 $ python manage.py runserver
 ```
